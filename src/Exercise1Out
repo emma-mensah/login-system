@@ -1,0 +1,41 @@
+1. CASE ONE:
+Enter the filename to read from: /Users/emmanuela/IdeaProjects/Assignment5/src/Students.txt
+Login: ddude
+Password: jflajdljfped
+Login successful
+Welcome Drum Dude
+
+2. CASE TWO:
+Enter the filename to read from: /Users/emmanuela/IdeaProjects/Assignment5/src/Students.txt
+Login: bbones
+Password: pas456!
+Either the username or password is incorrect. You have 2 more attempts
+Login: bbones
+Password: pass456!
+Login successful
+Welcome Brom Bones
+
+3. CASE THREE:
+Enter the filename to read from: /Users/emmanuela/IdeaProjects/Assignment5/src/Students.txt
+Login: cnorris
+Password: power
+Either the username or password is incorrect. You have 2 more attempts
+Login: cnorris
+Password: power33
+Either the username or password is incorrect. You have 1 more attempt
+Login: cnorris
+Password: power332*
+Login successful
+Welcome Chuck Norris
+
+4. CASE FOUR:
+Enter the filename to read from: /Users/emmanuela/IdeaProjects/Assignment5/src/Students.txt
+Login: tchaser
+Password: pxo567!
+Either the username or password is incorrect. You have 2 more attempts
+Login: tchaser
+Password: Xpxo567!
+Either the username or password is incorrect. You have 1 more attempt
+Login: tchaser
+Password: xpxo567
+Sorry. Incorrect login. Please contact the system administrator.
